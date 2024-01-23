@@ -19,6 +19,7 @@ Details:
 <i>Project 2: Cocolate Sales Data Visualization(Power BI)</i>
 </br>
 Details:
+<br>
 1. Objective - Chocolate Sales Analysis and Visualization.
 2. Data anlysis using MS Excel.
 3. Data Visualization using Power BI
@@ -28,11 +29,12 @@ Details:
     - Total Salesmen
     - Product wise and Region wise sales.
     - Monthly sales trend.
-
+<br>
 <br>
 <i>Project 3: Dominos Pizza Sales Analysis and Visualization(MSSQL Server, Tableau)</i>
 </br>
 Details:
+<br>
 1. Objective - Analyze different business aspects of Dominos Pizza Sales.
 2. Data Cleaning and Analysis using MSSQL Server.
 3. Data Visualization using Tableau.
@@ -47,3 +49,4 @@ Details:
     - Sales percentage by pizza size and category.
     - Sales by pizza category.
     - Top 5 best and worst sellers.
+</br>
