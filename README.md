@@ -14,6 +14,7 @@ Details:
     - Occupation of most buyers.
     - Most popular product category.
 5. Final conclusion.
+
 <br>
 <i>Project 2: Cocolate Sales Data Visualization(Power BI)</i>
 </br>
@@ -27,6 +28,7 @@ Details:
     - Total Salesmen
     - Product wise and Region wise sales.
     - Monthly sales trend.
+
 <br>
 <i>Project 3: Dominos Pizza Sales Analysis and Visualization(MSSQL Server, Tableau)</i>
 </br>
