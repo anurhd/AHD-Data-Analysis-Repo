@@ -8,3 +8,7 @@ Details
 <br>
 Project 2: Cocolate Sales Data Visualization(Power BI)
 </br>
+
+<br>
+Project 3: Dominos Pizza Sales Analysis and Visualization(MSSQL Server, Tableau)
+</br>
