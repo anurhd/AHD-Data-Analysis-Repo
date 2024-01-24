@@ -24,7 +24,7 @@ Details:
 </br>
 
 <br>
-<i>Project 2: Chocolate Sales Data Visualization(Power BI)</i>
+<b>Project 2: Chocolate Sales Data Visualization(Power BI)</b>
 </br>
 Details:
 <br>
@@ -35,7 +35,6 @@ Details:
 3. Data Visualization using Power BI
 </br>
 4. KPIs
-<br>
 <ul>
     <li>Total Revenue</li>
     <li>Total boxes sold</li>
@@ -43,9 +42,8 @@ Details:
     <li>Product wise and Region wise sales.</li>
     <li>Monthly sales trend.</li>
 </ul>
-</br>
 <br>
-<i>Project 3: Dominos Pizza Sales Analysis and Visualization(MSSQL Server, Tableau)</i>
+<b>Project 3: Dominos Pizza Sales Analysis and Visualization(MSSQL Server, Tableau)</b>
 </br>
 Details:
 <br>
@@ -63,7 +61,6 @@ Details:
     <li>Total Orders</li>
     <li>Average Pizzas per Order</li>
 </ul>
-<br>
 5. Chart Requirements
 <ul>
     <li>Daily and monthly trends of orders.</li>
@@ -71,4 +68,3 @@ Details:
     <li>Sales by pizza category.</li>
     <li>Top 5 best and worst sellers.</li>
 </ul>
-<br>
