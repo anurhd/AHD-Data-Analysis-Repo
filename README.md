@@ -12,11 +12,13 @@ Details:
 3. Data Visualizations using Seaborn.
 </br>
 4. KPIs
-    1. Most buyers gender wise.
-    2. Age wise revenue contributions.
-    3. Most orders with respect to region.
-    4. Occupation of most buyers.
-    5. Most popular product category.
+<ul>
+    <li>Most buyers gender wise.</li>
+    <li>Age wise revenue contributions.</li>
+    <li>Most orders with respect to region.</li>
+    <li>Occupation of most buyers.</li>
+    <li>Most popular product category.</li>
+</ul>
 <br>
 5. Final conclusion.
 </br>
@@ -33,12 +35,15 @@ Details:
 3. Data Visualization using Power BI
 </br>
 4. KPIs
-    1. Total Revenue
-    2. Total boxes sold
-    3. Total Salesmen
-    4. Product wise and Region wise sales.
-    5. Monthly sales trend.
-
+<br>
+<ul>
+    <li>Total Revenue</li>
+    <li>Total boxes sold</li>
+    <li>Total Salesmen</li>
+    <li>Product wise and Region wise sales.</li>
+    <li>Monthly sales trend.</li>
+</ul>
+</br>
 <br>
 <i>Project 3: Dominos Pizza Sales Analysis and Visualization(MSSQL Server, Tableau)</i>
 </br>
@@ -51,15 +56,19 @@ Details:
 3. Data Visualization using Tableau.
 </br>
 4. KPIs
-    1. Total Revenue
-    2. Average Order Value
-    3. Total Pizzas Sold
-    4. Total Orders
-    5. Average Pizzas per Order
+<ul>
+    <li>Total Revenue</li>
+    <li>Average Order Value</li>
+    <li>Total Pizzas Sold</li>
+    <li>Total Orders</li>
+    <li>Average Pizzas per Order</li>
+</ul>
 <br>
 5. Chart Requirements
-    1. Daily and monthly trends of orders.
-    2. Sales percentage by pizza size and category.
-    3. Sales by pizza category.
-    4. Top 5 best and worst sellers.
+<ul>
+    <li>Daily and monthly trends of orders.</li>
+    <li>Sales percentage by pizza size and category.</li>
+    <li>Sales by pizza category.</li>
+    <li>Top 5 best and worst sellers.</li>
+</ul>
 <br>
