@@ -19,7 +19,6 @@ Details:
     <li>Occupation of most buyers.</li>
     <li>Most popular product category.</li>
 </ul>
-5. Final conclusion.
 
 <br>
 <b>Project 2: Chocolate Sales Data Visualization(Power BI)</b>
