@@ -1,4 +1,4 @@
-**Project 1: Data Analysis and Visualization with Python(Pandas, Seaborn)**
+**Project 1: E-commerce Store Sales Data Analysis and Visualization with Python(Pandas, Seaborn)**
 
 Details:
 
