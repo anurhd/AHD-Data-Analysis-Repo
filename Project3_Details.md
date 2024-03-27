@@ -2,7 +2,7 @@
  
 Details:
  
-1. Objective - Analyze different business aspects of Dominos Pizza Sales.
+1. Objective - Analyze different business perspectives and sales from Dominos Pizza Sales.
  
 2. Data Cleaning and Analysis using MSSQL Server.
  

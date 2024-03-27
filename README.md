@@ -8,3 +8,5 @@ Projects included in the repository are:
 - [**Chocolate Sales Analysis**](Project2_Details.md)
 
 - [**Dominos Pizza Sales Analysis**](Project3_Details.md)
+
+- [**T20 Cricket Data Analysis**](Project4_Details.md)

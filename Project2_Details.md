@@ -2,7 +2,7 @@
 
 Details:
  
-1. Objective - Chocolate Sales Analysis and Visualization.
+1. Objective - Analyze sales and business perspectives from chocolate company sales data.
  
 2. Data anlysis using MS Excel.
  
